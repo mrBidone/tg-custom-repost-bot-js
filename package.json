@@ -17,6 +17,9 @@
   "author": "Andrii Bidenko <ab.bz@ukr.net>",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
